@@ -133,3 +133,7 @@
 - **混雑状況**:  
   - **Google Maps API**を利用して店舗のリアルタイム混雑情報を取得  
   - アプリ内で混雑度を可視化し、ユーザーに提示  
+
+  画面遷移図
+  https://www.figma.com/board/dJYlaQDOBeJ1DfjueaClpk/Food_choice?node-id=0-1&node-type=canvas&t=WXRbjEveSFANYADD-0
+  
