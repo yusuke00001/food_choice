@@ -136,3 +136,5 @@
 
   画面遷移図
 https://www.figma.com/design/nTAc25lT7zgjuwEIKVywPZ/food_choice?node-id=0-1&node-type=canvas&t=H1SSCGIvrYANCW3u-0
+
+  ER図
